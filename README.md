@@ -1,5 +1,3 @@
-# Kazi Ashik Islam
-
 ![Kazi Ashik Islam](https://drive.google.com/thumbnail?id=12h7Z2T3MzPtBWnNXqlcatddS_lsVPaX6)
 
 [Summary](https://kai10.github.io/#summary) | [Education](https://kai10.github.io/#education) | [Research](https://kai10.github.io/#research) | [Projects](https://kai10.github.io/#projects) | [Technical Skills](https://kai10.github.io/#technical-skills) | [Professional Experience](https://kai10.github.io/#professional-experience)
