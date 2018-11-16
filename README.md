@@ -12,11 +12,15 @@ I am interested in spatial databases and machine learning. I have also worked wi
 ## Education
 <table>
   <tr>
-    <td><img src="https://drive.google.com/thumbnail?id=1K5cVVOjG0ZoGLbPs4i4OyzegO46Ufcn-" width="150"/></td>
-    <td>I received my B.Sc. degree in [Computer Science & Engineering](https://cse.buet.ac.bd/) at [Bangladesh University of Engineering & Technology (BUET)](http://www.buet.ac.bd/) in September, 2017. I completed my undergrad thesis under the supervision of Dr. Sohel Rahman.</td>
+    <td><img src="https://drive.google.com/thumbnail?id=1K5cVVOjG0ZoGLbPs4i4OyzegO46Ufcn-" width="200"/></td>
+    <td>I received my B.Sc. degree in <a href="https://cse.buet.ac.bd/">Computer Science & Engineering</a> at <a href="http://www.buet.ac.bd/">Bangladesh University of Engineering & Technology (BUET)</a> in September, 2017. I completed my undergrad thesis under the supervision of Dr. Sohel Rahman.</td>
   </tr>
   <tr>
-    <td><img src="https://drive.google.com/thumbnail?id=1tQjyguCb2QvMokYtxM-6ESiiMS2I8cEs" width="150"/></td>
-    <td>I received my Higher Secondary Certificate (HSC) from [Dhaka City College](http://www.dhakacitycollege.edu.bd/).</td>
+    <td><img src="https://drive.google.com/thumbnail?id=1tQjyguCb2QvMokYtxM-6ESiiMS2I8cEs" width="200"/></td>
+    <td>I received my Higher Secondary Certificate (HSC) from <a href="http://www.dhakacitycollege.edu.bd/">Dhaka City College</a>.</td>
+  </tr>
+  <tr>
+    <td><img src="https://drive.google.com/thumbnail?id=1KrQIDpxqT0BFO7b4kAMjWWZANeYScZJp" width="200"></td>
+    <td>I received my Secondary School Certificate (SSC) from <a href="www.glabdhaka.edu.bd/">Government Laboratory High School, Dhaka</a>.</td>
   </tr>
 </table>
