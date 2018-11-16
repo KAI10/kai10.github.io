@@ -3,49 +3,10 @@
 
 @import "jekyll-theme-midnight";
 
-// Breakpoints
-$large-breakpoint: 64em !default;
-$medium-breakpoint: 42em !default;
-
-// Borders
-$border-color: #dce6f0 !default;
-$table-border-color: #e9ebec !default;
-$hr-border-color: #eff0f1 !default;
-
-@mixin large {
-  @media screen and (min-width: #{$large-breakpoint}) {
-    @content;
-  }
-}
-
-@mixin medium {
-  @media screen and (min-width: #{$medium-breakpoint}) and (max-width: #{$large-breakpoint}) {
-    @content;
-  }
-}
-
-@mixin small {
-  @media screen and (max-width: #{$medium-breakpoint}) {
-    @content;
-  }
-}
-
 .site-footer {
   padding-top: 2rem;
   margin-top: 2rem;
-  border-top: solid 1px $hr-border-color;
-
-  @include large {
-    font-size: 1rem;
-  }
-
-  @include medium {
-    font-size: 1rem;
-  }
-
-  @include small {
-    font-size: 0.9rem;
-  }
+  font-size: 0.9rem;
 }
 
 .site-footer-owner {
