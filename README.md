@@ -24,3 +24,11 @@ I am interested in spatial databases and machine learning. I have also worked wi
     <td>I received my Secondary School Certificate (SSC) from <a href="www.glabdhaka.edu.bd/">Government Laboratory High School, Dhaka</a>.</td>
   </tr>
 </table>
+
+## Projects
+### Academic
+<table>
+  <tr>
+    <td><iframe src="https://github.com/KAI10/Semi-Autonomous-Obstacle-Avoider"></iframe></td>
+  </tr>
+</table>
