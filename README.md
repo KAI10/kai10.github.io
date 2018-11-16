@@ -1,7 +1,5 @@
 ![Kazi Ashik Islam](https://drive.google.com/thumbnail?id=12h7Z2T3MzPtBWnNXqlcatddS_lsVPaX6)
 
-[Summary](https://kai10.github.io/#summary) | [Education](https://kai10.github.io/#education) | [Research](https://kai10.github.io/#research) | [Projects](https://kai10.github.io/#projects) | [Technical Skills](https://kai10.github.io/#technical-skills) | [Professional Experience](https://kai10.github.io/#professional-experience)
-
 ## Summary
 I obtained my BSc. in Computer Science and Engineering [(CSE)](https://cse.buet.ac.bd/) from Bangladesh University of Engineering and Technology [(BUET)](http://www.buet.ac.bd/) with major in AI.
 
