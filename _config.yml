@@ -1,4 +1,3 @@
 title: Kazi Ashik Islam
 theme: jekyll-theme-midnight
-github:
-  is_project_page: false
+google_analytics: true
