@@ -1,0 +1,15 @@
+---
+---
+
+@import "jekyll-theme-midnight";
+
+#header {
+  nav {
+    li {
+      &.fork {
+        float: left;
+        margin-left: 6px;
+      }
+    }
+  }
+}
