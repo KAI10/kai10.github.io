@@ -2,7 +2,7 @@
 
 ![Kazi Ashik Islam](https://drive.google.com/thumbnail?id=12h7Z2T3MzPtBWnNXqlcatddS_lsVPaX6)
 
-[Summary](https://kai10.github.io/#summary) | [Education](https://kai10.github.io/#education) | [Research](https://kai10.github.io/#research) | [Projects](https://kai10.github.io/#projects) | [Professional Experience](https://kai10.github.io/#professional-experience)
+[Summary](https://kai10.github.io/#summary) | [Education](https://kai10.github.io/#education) | [Research](https://kai10.github.io/#research) | [Projects](https://kai10.github.io/#projects) | [Technical Skills](https://kai10.github.io/#technical-skills) | [Professional Experience](https://kai10.github.io/#professional-experience)
 
 ## Summary
 I obtained my BSc. in Computer Science and Engineering [(CSE)](https://cse.buet.ac.bd/) from Bangladesh University of Engineering and Technology [(BUET)](http://www.buet.ac.bd/) with my major in AI.
@@ -52,3 +52,16 @@ __Summary:__ We present a system for efficient detection, continuous maintenance
 * **[Online Card Game](https://kai10.github.io/Online-Card-Game-29/)** This is a java implementation of popular card game 29. Players on the same localnet can play. Multiple games at the same time is supported. **Tools:** Java.
 * **[Grayscale Image Conversion](https://kai10.github.io/Grayscale-Image-Conversion/)** This is a C program that can convert a BMP (bitmap) image file to it's gray-scale version. It uses "iGraphics" library which is a wrapper for OpenGL in 2D.
 * **[Tower of Hanoi Simulator](https://kai10.github.io/Tower-of-Hanoi-Simulator/)** It is a C program that simulates and solves the tower of hanoi problem. For GUI, it uses “iGraphics” library which is a wrapper for OpenGL in 2D.
+
+## Technical Skills
+* Programming & Scripting Languages: 
+  * **Python:** I love programming in python and am using it everyday at my workplace.
+  * **C/C++:** I used C/C++ as my primary language for competitive programming contests.
+  * **Java:** I used java in several academic projects in undergraduate level.
+  * **Bash:** I use Linux (Arch) as my primary OS and am fairly familiar with Shell scripting.
+  * I have also worked with SQL/PLSQL and JavaScript.
+* Database
+  * **Relational Dababases:** I actively use PostgreSQL and it's geographic extensions (PostGIS). I have also worked with Oracle and SQLite.
+  * **NoSQL Databases:** I have worked with Elasticsearch extensively. I used it for full text search and geo queries.
+* Framework: Django
+* Writing Tools: LaTeX, Microsoft Office (Word, PowerPoint).
