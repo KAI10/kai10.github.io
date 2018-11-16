@@ -3,7 +3,7 @@
 [Summary](https://kai10.github.io/#summary) | [Education](https://kai10.github.io/#education) | [Research](https://kai10.github.io/#research) | [Projects](https://kai10.github.io/#projects) | [Technical Skills](https://kai10.github.io/#technical-skills) | [Professional Experience](https://kai10.github.io/#professional-experience)
 
 ## Summary
-I obtained my BSc. in Computer Science and Engineering [(CSE)](https://cse.buet.ac.bd/) from Bangladesh University of Engineering and Technology [(BUET)](http://www.buet.ac.bd/) with my major in AI.
+I obtained my BSc. in Computer Science and Engineering [(CSE)](https://cse.buet.ac.bd/) from Bangladesh University of Engineering and Technology [(BUET)](http://www.buet.ac.bd/) with major in AI.
 
 I am interested in spatial databases and machine learning. I have also worked with meta-heuristics applied in transit network design problem.
 
