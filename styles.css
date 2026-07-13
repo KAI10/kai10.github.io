@@ -1,0 +1,310 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+    line-height: 1.6;
+    color: #333;
+    background: #f8f9fa;
+}
+
+header {
+    background:
+        linear-gradient(135deg, rgba(35,47,62,0.93) 0%, rgba(26,37,47,0.93) 100%),
+        url('figures/wordcloud_linkedin_banner.png');
+    background-size: cover, contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: white;
+    padding: 3rem 2rem;
+    text-align: center;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+}
+
+header h1 {
+    font-size: 2.5rem;
+    margin-bottom: 0.5rem;
+    font-weight: 600;
+}
+
+header p {
+    font-size: 1.2rem;
+    opacity: 0.9;
+    line-height: 1.3;
+    margin-bottom: 1.5rem;
+}
+
+header p:first-of-type {
+    margin-bottom: 0;
+}
+
+.contact-links {
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+    margin-top: 2.5rem;
+    flex-wrap: wrap;
+}
+
+.contact-links a {
+    color: white;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    line-height: 1;
+    gap: 0.5rem;
+    transition: opacity 0.3s;
+}
+
+.contact-links a i {
+    display: inline-flex;
+    align-items: center;
+    font-size: 1.1rem;
+    line-height: 1;
+}
+
+.contact-links a:hover {
+    opacity: 0.8;
+}
+
+nav {
+    background: white;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    position: sticky;
+    top: 0;
+    z-index: 100;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 0;
+}
+
+nav ul li {
+    margin: 0;
+}
+
+nav ul li a {
+    display: block;
+    padding: 1rem 1.5rem;
+    color: #232F3E;
+    text-decoration: none;
+    font-weight: 500;
+    transition: background 0.3s;
+}
+
+nav ul li a:hover {
+    background: #f0f0f0;
+}
+
+.container {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 2rem;
+}
+
+section {
+    background: white;
+    margin: 2rem 0;
+    padding: 2rem;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+}
+
+h2 {
+    color: #232F3E;
+    border-bottom: 3px solid #FF9900;
+    padding-bottom: 0.5rem;
+    margin-bottom: 1.5rem;
+    font-size: 1.8rem;
+}
+
+h3 {
+    color: #232F3E;
+    margin-top: 1.5rem;
+    margin-bottom: 0.5rem;
+    font-size: 1.3rem;
+}
+
+.education-item, .experience-item {
+    margin-bottom: 2rem;
+    padding-bottom: 1.5rem;
+    border-bottom: 1px solid #e0e0e0;
+}
+
+.education-item:last-child, .experience-item:last-child {
+    border-bottom: none;
+}
+
+.degree-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    flex-wrap: wrap;
+    margin-bottom: 0.5rem;
+}
+
+.degree-title {
+    font-weight: 600;
+    font-size: 1.1rem;
+    color: #232F3E;
+}
+
+.date {
+    color: #666;
+    font-style: italic;
+}
+
+.institution {
+    color: #555;
+    margin-bottom: 0.5rem;
+}
+
+.publication {
+    margin-bottom: 1.5rem;
+    padding-left: 1rem;
+    border-left: 3px solid #FF9900;
+}
+
+.publication-title {
+    font-weight: 600;
+    color: #232F3E;
+    margin-bottom: 0.3rem;
+}
+
+.publication-venue {
+    color: #666;
+    font-style: italic;
+    margin-bottom: 0.5rem;
+}
+
+.publication-details {
+    color: #555;
+    font-size: 0.95rem;
+}
+
+.skills-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 1rem;
+    margin-top: 1rem;
+}
+
+.skill-category {
+    background: #f8f9fa;
+    padding: 1rem;
+    border-radius: 6px;
+    border-left: 3px solid #FF9900;
+}
+
+.skill-category h4 {
+    color: #232F3E;
+    margin-bottom: 0.5rem;
+    font-size: 1rem;
+}
+
+.skill-category p {
+    color: #555;
+    font-size: 0.95rem;
+}
+
+.award-item {
+    padding: 0.8rem;
+    margin-bottom: 0.5rem;
+    background: #f8f9fa;
+    border-radius: 4px;
+    border-left: 3px solid #FF9900;
+}
+
+.news-item {
+    display: flex;
+    gap: 1.5rem;
+    padding: 0.8rem 0;
+    margin-bottom: 0.5rem;
+    border-bottom: 1px solid #e0e0e0;
+}
+
+.news-item:last-child {
+    border-bottom: none;
+    margin-bottom: 0;
+}
+
+.news-date {
+    flex: 0 0 auto;
+    width: 5.5rem;
+    color: #FF9900;
+    font-weight: 600;
+}
+
+.news-content {
+    color: #555;
+}
+
+.news-content a {
+    color: #232F3E;
+    font-weight: 500;
+}
+
+@media (max-width: 600px) {
+    .news-item {
+        flex-direction: column;
+        gap: 0.3rem;
+    }
+}
+
+ul {
+    margin-left: 1.5rem;
+    margin-top: 0.5rem;
+}
+
+ul li {
+    margin-bottom: 0.5rem;
+    color: #555;
+}
+
+footer {
+    background: #232F3E;
+    color: white;
+    text-align: center;
+    padding: 2rem;
+    margin-top: 3rem;
+}
+
+.btn {
+    display: inline-block;
+    padding: 0.6rem 1.2rem;
+    background: #FF9900;
+    color: white;
+    text-decoration: none;
+    border-radius: 4px;
+    transition: background 0.3s;
+    margin-top: 0.5rem;
+}
+
+.btn:hover {
+    background: #ec8a00;
+}
+
+@media (max-width: 768px) {
+    header h1 {
+        font-size: 2rem;
+    }
+
+    .degree-header {
+        flex-direction: column;
+    }
+
+    nav ul {
+        flex-direction: column;
+    }
+
+    nav ul li a {
+        border-bottom: 1px solid #f0f0f0;
+    }
+}
